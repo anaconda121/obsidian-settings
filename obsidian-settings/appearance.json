@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Recursive Sans Linear",
+  "baseFontSize": 13,
+  "enabledCssSnippets": [
+    "academic-pdf-export"
+  ]
+}
